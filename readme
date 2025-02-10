@@ -1,0 +1,11 @@
+The AI Social media content Generator takes a Topic on which the user wants to post on their social media
+and the social media platform they want to post on as an input.
+
+Once received the application has 2 AI agents:
+1. Research Agent: The research agent leverages internet browsing via serper api and conducts comprehensive
+                   research about the given topic.
+2. Content Agent: The content agent then uses the information provided by the research agent to craft engaging
+                  written content about the topic for the given social media platform along with relevant hashtags
+                  and emojis
+
+The application also let's you download the content as a text file
